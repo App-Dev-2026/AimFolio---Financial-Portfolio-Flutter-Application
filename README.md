@@ -40,7 +40,7 @@ The goal of this application is to provide users with a simple way to manage the
 ### Installation Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/SamPham2020/Financial-Portfolio-Flutter-Application.git
+   git clone https://github.com/App-Dev-2026/AimFolio---Financial-Portfolio-Flutter-Application.git
    ```
 2. Set up your environment variables/configuration files for Firebase and Alpaca API credentials.
 3. Run the application on your target platform or emulator.
