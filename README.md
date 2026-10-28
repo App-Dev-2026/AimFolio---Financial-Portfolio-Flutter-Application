@@ -46,5 +46,5 @@ The goal of this application is to provide users with a simple way to manage the
    
 [🖥️ View AimFolio PowerPoint Presentation](https://eduvaniercollegeqc-my.sharepoint.com/:p:/r/personal/6117227_edu_vaniercollege_qc_ca1/Documents/ApDev/AimFolio.pptx?d=w59d91d5bdc7f4a248d3f43a33e09a78b&csf=1&web=1&e=4KJnMc)
 
-[📐![Figma Prototype](https://shields.io)](https://www.figma.com/proto/lXJj9ujfOxjcJbLhWbpQog/Onboarding--Login---Register---App-Ui--Community---Copy-?node-id=807-69&p=f&t=CcsDeaHltXXkQMzo-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A2&show-proto-sidebar=1)
+[📐![Design Prototype](https://shields.io)(https://www.figma.com/proto/lXJj9ujfOxjcJbLhWbpQog/Onboarding--Login---Register---App-Ui--Community---Copy-?node-id=807-69&p=f&t=CcsDeaHltXXkQMzo-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A2&show-proto-sidebar=1)
 
