@@ -24,9 +24,9 @@ The goal of this application is to provide users with a simple way to manage the
 *   🔥 **Firebase Authentication:** Handles secure backend token management and verifies live user registration and sign-in status.
 *   🛡️ **Firestore Security Rules:** Server-side privacy filters enforcing strict user isolation by validating unique authenticated request UIDs to prevent data leakage.
 *   📈 **Alpaca REST API Integration:** Robust external network infrastructure linking the client app directly to live financial data servers over HTTP.
-*   🔄 **Asynchronous JSON Data Fetching:** Complex decoding pipelines parsing nested JSON responses from Alpaca endpoints directly into local data models.
+*   🔄 **Asynchronous JSON Data Fetching:** decoding pipelines parsing nested JSON responses from Alpaca endpoints directly into local data models.
 *   💾 **Cloud Database CRUD:** Asynchronous data layer methods executing full Create, Read, Update, and Delete commands against cloud database tables.
-*   💬 **Reactive App SnackBar Notifications:** Built-in alert pop-ups triggering real-time feedback confirmations upon successful database operations.
+*   💬 **SnackBar Notifications:** alert pop-ups confirmations directly to the user screen upon successful operations.​
 
 ---
 
