@@ -1,5 +1,4 @@
 # 📈 📊 AimFolio - Financial Portfolio Flutter Application
-
 ### Main Objective
 The goal of this application is to provide users with a simple way to manage their stock and ETF investments. Users can view their portfolio performance on a dashboard, manually manage their holdings and purchase prices, and use the latest available market prices to calculate estimated portfolio values and profit or loss.
 
@@ -44,4 +43,6 @@ The goal of this application is to provide users with a simple way to manage the
    ```
 2. Set up your environment variables/configuration files for Firebase and Alpaca API credentials.
 3. Run the application on your target platform or emulator.
+   
+[🖥️ View AimFolio PowerPoint Presentation](https://eduvaniercollegeqc-my.sharepoint.com/:p:/r/personal/6117227_edu_vaniercollege_qc_ca1/Documents/ApDev/AimFolio.pptx?d=w59d91d5bdc7f4a248d3f43a33e09a78b&csf=1&web=1&e=4KJnMc)
 
